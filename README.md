@@ -1,1 +1,1 @@
-First code i c
+First code in C
